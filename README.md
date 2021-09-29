@@ -3,10 +3,11 @@
 A simple Tic-Tac-Toe (CLI version) program written in C++.  It's a PVP (player vs player) game where two player can play against each other. This multiplayer game is  side time-pass to relax yourself.
 
 ## Screenshots
+![pic_1](https://user-images.githubusercontent.com/66427456/135268903-3395d606-b467-4b44-a797-f11cf75d8c7a.png)
 
-![pic_1.png](:/32e578d4a8224342b0262cd6d966e2e9)
+![pic_2](https://user-images.githubusercontent.com/66427456/135268910-37b67f6d-cad7-4a27-801e-3ee3ece567fc.png)
 
-![pic_2.png](:/7e3d2ce0a07748a6b73660fbf0188887)
+
   
 ## Rules
 
