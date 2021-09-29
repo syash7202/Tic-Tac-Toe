@@ -1,4 +1,4 @@
-# Tic-Tac-toe ( CLI )
+# Tic-Tac-Toe ( CLI )
 
 A simple Tic-Tac-Toe (CLI version) program written in C++.  It's a PVP (player vs player) game where two player can play against each other. This multiplayer game is  side time-pass to relax yourself.
 
